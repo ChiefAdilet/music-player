@@ -1,0 +1,402 @@
+.main,
+.main * {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.main {
+    background: #000;
+    width: 1440px;
+    height: 4632px;
+    position: relative;
+    overflow: hidden;
+    margin: 0;
+}
+.desktop-1 {
+    width: 1440px;
+    height: 1024px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+}
+.home {
+    color: #ffffff;
+    text-align: left;
+    font: 400 18px "Istok Web", sans-serif;
+    position: absolute;
+    left: 365px;
+    top: 74px;
+    text-decoration: none;
+}
+.music {
+    color: #ffffff;
+    text-align: left;
+    font: 400 18px "Istok Web", sans-serif;
+    position: absolute;
+    left: 518px;
+    top: 74px;
+    text-decoration: none;
+}
+.about {
+    color: #ffffff;
+    text-align: left;
+    font: 400 18px "Istok Web", sans-serif;
+    position: absolute;
+    left: 674px;
+    top: 74px;
+    text-decoration: none;
+}
+.store {
+    color: #ffffff;
+    text-align: left;
+    font: 400 18px "Istok Web", sans-serif;
+    position: absolute;
+    left: 835px;
+    top: 74px;
+    text-decoration: none;
+}
+.music-player {
+    color: #ffffff;
+    text-align: left;
+    font: 400 150px "Kenia", sans-serif;
+    position: absolute;
+    left: 115px;
+    top: 291px;
+    width: 412px;
+    height: 264px;
+}
+.american-company-formed-in-2002-in-boston-massachusetts {
+    color: #ffffff;
+    text-align: left;
+    font: 400 20px "Istok Web", sans-serif;
+    position: absolute;
+    left: 122px;
+    top: 730px;
+    width: 290px;
+    height: 63px;
+}
+.mp {
+    position: absolute;
+    left: 122px;
+    top: 47px;
+}
+.flat-i-phone-1 {
+    width: 500px;
+    height: 888.01px;
+    position: absolute;
+    left: 865px;
+    top: 127px;
+}
+.desktop-2 {
+    background: #d53005;
+    width: 1440px;
+    height: 1024px;
+    position: absolute;
+    left: 0px;
+    top: 1024px;
+    overflow: hidden;
+}
+.music2 {
+    color: #ffffff;
+    text-align: left;
+    font: 400 30px "Karla", sans-serif;
+    position: absolute;
+    left: 122px;
+    top: 83px;
+}
+.seyi-ariyo-6-yg-y-rcy-qk-s-unsplash-photo-room-1 {
+    width: 1000px;
+    height: 666.5px;
+    position: absolute;
+    left: 440px;
+    top: 179px;
+}
+
+.listen-now {
+    background: radial-gradient(closest-side, rgba(177, 62, 24, 1) 0%, rgba(243, 80, 26, 1) 100%);
+    border: solid 1px rgba(0, 0, 0, 0.5);
+    width: 382px;
+    height: 83px;
+    box-shadow: -4px -4px 30px 0px rgba(255, 255, 255, 0.1), 4px 4px 4px 0px rgba(0, 0, 0, 0.5);
+    position: absolute;
+    text-align: center;
+    padding-top: 15px;
+    left: 122px;
+    top: 403px;
+}
+.find-a-song {
+    background: radial-gradient(closest-side, rgba(177, 62, 24, 1) 0%, rgba(243, 80, 26, 1) 100%);
+    border: solid 1px rgba(0, 0, 0, 0.5);
+    width: 382px;
+    height: 83px;
+    box-shadow: -4px -4px 30px 0px rgba(255, 255, 255, 0.1), 4px 4px 4px 0px rgba(0, 0, 0, 0.5);
+    position: absolute;
+    text-align: center;
+    padding-top: 15px;
+    position: absolute;
+    left: 122px;
+    top: 574px;
+}
+a {
+    text-decoration: none;
+    color: #ffffff;
+    text-align: left;
+    font: 400 40px "Karla", sans-serif;
+}
+.desktop-3 {
+    background: linear-gradient(180deg, rgba(213, 48, 5, 1) 0%, rgba(0, 0, 0, 1) 6.036633625626564%);
+    width: 1440px;
+    height: 1024px;
+    position: absolute;
+    left: 0px;
+    top: 2048px;
+    overflow: hidden;
+}
+.about2 {
+    color: #ffffff;
+    text-align: left;
+    font: 400 30px "Karla", sans-serif;
+    position: absolute;
+    left: 122px;
+    top: 83px;
+}
+.main-about-list {
+    color: #ffffff;
+    text-align: left;
+    font: 400 30px "Karla", sans-serif;
+    position: absolute;
+    left: 275px;
+    top: 476px;
+    width: 969px;
+    height: 72px;
+}
+.desktop-4 {
+    background: #d53005;
+    width: 1440px;
+    height: 1024px;
+    position: absolute;
+    left: 0px;
+    top: 3072px;
+    overflow: hidden;
+}
+.store2 {
+    color: #ffffff;
+    text-align: left;
+    font: 400 30px "Karla", sans-serif;
+    position: absolute;
+    left: 122px;
+    top: 83px;
+}
+.device-macbook-pro {
+    position: absolute;
+    inset: 0;
+}
+
+.top {
+    width: 945.79px;
+    height: 642.12px;
+    position: static;
+}
+.macbook {
+    position: absolute;
+    left: 350px;
+    top: 169px;
+}
+
+.macbook-pro {
+    color: var(--default-gray-500, #a0aec0);
+    text-align: center;
+    font: 600 13px/90% "Inter", sans-serif;
+    position: absolute;
+    left: 872.64px;
+    top: 787.93px;
+    width: 96.2px;
+    height: 13.91px;
+}
+
+.store3 {
+    color: #ffffff;
+    text-align: left;
+    font: 400 9px "Montserrat", sans-serif;
+    position: absolute;
+    left: 519.13px;
+    top: 478.47px;
+    width: 27.82px;
+    height: 12.75px;
+}
+
+.download-windows-x-64 {
+    background: rgba(2, 2, 2, 0.9);
+    border-radius: 30px;
+    width: 240px;
+    height: 60px;
+    position: relative;
+    box-shadow: -4px -4px 4px 0px rgba(255, 255, 255, 0.1), 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    color: #ffffff;
+    text-align: center;
+    font: 400 20px "Montserrat", sans-serif;
+    position: absolute;
+    left: 110px;
+    top: 259px;
+    width: 200px;
+    height: 50px;
+}
+.download-mac-os {
+    background: #e3e3e3;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.7);
+    border-width: 1px;
+    width: 240px;
+    height: 60px;
+    position: relative;
+    box-shadow: -4px -4px 4px 0px rgba(255, 255, 255, 0.1), 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    color: #000000;
+    text-align: center;
+    font: 400 20px "Montserrat", sans-serif;
+    position: absolute;
+    left: 110px;
+    top: 367px;
+    width: 200px;
+    height: 50px;
+}
+.m-player {
+    color: #ffffff;
+    text-align: left;
+    font: 600 21px "Montserrat", sans-serif;
+    position: absolute;
+    left: 25px;
+    top: 557px;
+    width: 419px;
+    height: 28px;
+}
+.m-player-m-player {
+    text-align: center;
+    font: 400 18px "Montserrat", sans-serif;
+    position: absolute;
+    left: 19px;
+    top: 602px;
+    width: 431px;
+}
+.m-player-m-player-span {
+    color: #ffffff;
+    font: 400 18px "Montserrat", sans-serif;
+}
+.m-player-m-player-span2 {
+    color: rgba(4, 4, 4, 0.8);
+    font: 400 18px "Montserrat", sans-serif;
+}
+.line-11 {
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.7);
+    border-width: 1px 0 0 0;
+    width: 379.01px;
+    height: 0px;
+    position: absolute;
+    left: 46px;
+    top: 710px;
+    transform-origin: 0 0;
+    transform: rotate(0.306deg) scale(1, 1);
+}
+.desktop-5 {
+    background: linear-gradient(
+    180deg,
+    rgba(213, 48, 5, 1) 0%,
+    rgba(0, 0, 0, 1) 4.01465930044651%
+    );
+    width: 1440px;
+    height: 536px;
+    position: absolute;
+    left: 0px;
+    top: 4096px;
+    overflow: hidden;
+}
+.music-player3 {
+    color: #ffffff;
+    text-align: left;
+    font: 400 50px "Kenia", sans-serif;
+    position: absolute;
+    left: 110px;
+    top: 333px;
+}
+.m-player-inc-2022 {
+    color: #ffffff;
+    text-align: left;
+    font: 500 15px "Montserrat", sans-serif;
+    position: absolute;
+    left: 106px;
+    top: 444px;
+}
+.uslovia {
+    color: #ffffff;
+    text-align: left;
+    font: 500 15px "Montserrat", sans-serif;
+    position: absolute;
+    left: 551px;
+    top: 444px;
+}
+.prodazha {
+    color: #ffffff;
+    text-align: left;
+    font: 500 15px "Montserrat", sans-serif;
+    position: absolute;
+    left: 847px;
+    top: 444px;
+}
+.urinfo {
+    color: #ffffff;
+    text-align: left;
+    font: 500 15px "Montserrat", sans-serif;
+    position: absolute;
+    left: 1100px;
+    top: 444px;
+}
+.m-player-store {
+    color: #ffffff;
+    text-align: left;
+    position: absolute;
+    left: 452px;
+    top: 120px;
+}
+.m-player-store-span {
+    color: #ffffff;
+    font: 600 20px "Montserrat", sans-serif;
+}
+.m-player-store-span2 {
+    color: #ffffff;
+    font: 400 16px "Montserrat", sans-serif;
+}
+.m-player2 {
+    color: #ffffff;
+    text-align: left;
+    position: absolute;
+    left: 779px;
+    top: 120px;
+}
+.m-player-2-span {
+    color: #ffffff;
+    font: 600 20px "Montserrat", sans-serif;
+}
+.m-player-2-span2 {
+    color: #ffffff;
+    font: 400 16px "Montserrat", sans-serif;
+}
+.m-player-id-m-player-store {
+    color: #ffffff;
+    text-align: left;
+    position: absolute;
+    left: 1122px;
+    top: 120px;
+}
+.m-player-id-m-player-store-span {
+    color: #ffffff;
+    font: 600 20px "Montserrat", sans-serif;
+}
+.m-player-id-m-player-store-span2 {
+    color: #ffffff;
+    font: 400 16px "Montserrat", sans-serif;
+}
